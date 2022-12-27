@@ -4,7 +4,7 @@ import StarMatch from "./StarMatch";
 function App() {
   return (
     <div className="App">
-    <StarMatch />
+      <StarMatch />
     </div>
   );
 }

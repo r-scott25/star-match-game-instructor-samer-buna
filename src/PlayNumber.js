@@ -1,6 +1,6 @@
 import React from "react";
 import "./PlayNumber.css";
-import "./StarMatch.js";
+import "./Game.js";
 import colors from "./colors.js";
 
 const PlayNumber = (props) => (
